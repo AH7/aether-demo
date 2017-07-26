@@ -88,7 +88,7 @@
     <version>3.1.1-b04</version>
       </dependency>
      <dependency>
-    <groupId>org.glassfish</groupId>
+    <groupId>com.de-swaef</groupId>
     <artifactId>Markdown2Pdf</artifactId>
     <version>1.0.2</version>
       </dependency>
