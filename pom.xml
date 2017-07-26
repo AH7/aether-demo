@@ -87,11 +87,6 @@
     <artifactId>javax.transaction</artifactId>
     <version>3.1.1-b04</version>
       </dependency>
-     <dependency>
-    <groupId>com.de-swaef</groupId>
-    <artifactId>Markdown2Pdf</artifactId>
-    <version>1.0.2</version>
-      </dependency>
      </dependencies>
    </dependencyManagement>
 
